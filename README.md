@@ -1,6 +1,6 @@
 <div align="center">
   <h1>💫 About Me:</h1>
-  <p>🔭 I’m currently working on a web development project</p>
+  <p>🔭 I’m currently working on a data science  project</p>
   <p>👯 I’m looking to collaborate on data science project</p>
   <p>🤝 I’m looking for help with DSA</p>
   <p>🌱 I’m currently learning data science</p>
