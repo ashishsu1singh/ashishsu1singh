@@ -1,4 +1,3 @@
-```markdown
 <!-- 🔥 NEW – Animated Typing Header (ADDED, nothing removed) -->
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=26&duration=2500&pause=1000&color=00E6FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Ashish+Kumar+Singh;Aspiring+Data+Scientist;Open+Source+Contributor;DSA+Learner;Cricket+Lover+🏏" />
@@ -7,7 +6,7 @@
 <!-- ✅ YOUR ORIGINAL CONTENT – UNTOUCHED -->
 <div align="center">
   <h1>💫 About Me:</h1>
-  <p>🔭 I’m currently working on a data science project</p>
+  <p>🔭 I’m currently working on a data science  project</p>
   <p>👯 I’m looking to collaborate on data science project</p>
   <p>🤝 I’m looking for help with DSA</p>
   <p>🌱 I’m currently learning data science</p>
@@ -19,15 +18,6 @@
     <a href="https://facebook.com/Ashish Singh"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"></a>
     <a href="https://instagram.com/ashish_03_singh"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
     <a href="https://linkedin.com/in/ashish-kumar-singh-05577b254"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://leetcode.com/u/ashish_03_singh/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
-  </p>
-
-  <!-- 🧩 ADDED – LeetCode Stats -->
-  <h2>🧩 LeetCode</h2>
-  <p>
-    <a href="https://leetcode.com/u/ashish_03_singh/">
-      <img src="https://leetcard.jacoblin.cool/ashish_03_singh?theme=dark&font=Poppins&ext=contest" alt="LeetCode Stats">
-    </a>
   </p>
 
   <h1>💻 Tech Stack:</h1>
@@ -52,6 +42,7 @@
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
   </p>
 
+  <!-- 🔥 ADDED – Simple Icon View (extra, not replacing your badges) -->
   <p>
     <img src="https://skillicons.dev/icons?i=c,cpp,python,r,js,html,css,mysql,mongodb,firebase,git,github&perline=8" />
   </p>
@@ -70,9 +61,11 @@
     <img src="https://github-profile-trophy.vercel.app/?username=ashishsu1singh&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
   </p>
 
+  <!-- 🐍 ADDED – Contribution Snake (interactive) -->
   <h2>🐍 Contribution Snake</h2>
   <img src="https://raw.githubusercontent.com/ashishsu1singh/ashishsu1singh/output/github-contribution-grid-snake.svg"/>
 
+  <!-- ✅ YOUR QUOTE – KEPT -->
   <h3>✍️ Random Dev Quote</h3>
   <p>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
@@ -82,9 +75,10 @@
     <a href="https://#"><img src="https://visitcount.itsvg.in/api?id=ashishsu1singh&icon=0&color=0" alt="Profile Views"></a>
   </p>
 
-  <p><!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --></p>
+  <p> <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --></p>
 </div>
 
+<!-- 🔥 ADDED – Featured Projects Section -->
 <h2 align="center">📌 Featured Projects</h2>
 
 <div align="center">
@@ -98,11 +92,10 @@
 
 </div>
 
+<!-- 📨 ADDED – Call To Action -->
 <h2 align="center">🤝 Let's Connect & Collaborate</h2>
-
 <p align="center">
 ⭐ Star my repositories if you like them <br>
 💬 Message me for Collab or DSA help <br>
 🚀 Let’s build something big together!
-</p>
-```
+</p>  just add my leetcode 
