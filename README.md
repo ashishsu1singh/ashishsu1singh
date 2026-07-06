@@ -10,7 +10,7 @@
   <p>👯 I’m looking to collaborate on data science project</p>
   <p>🤝 I’m looking for help with DSA</p>
   <p>🌱 I’m currently learning data science</p>
-  <p>💬 Ask me about cricket</p>
+  <p>💬 Ask me about fitness</p>
   <br>
 
   <h2>🌐 Socials:</h2>
